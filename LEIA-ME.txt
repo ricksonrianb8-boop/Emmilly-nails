@@ -1,0 +1,7 @@
+EMMILLY NAILS DESIGNER
+
+Extraia todos os arquivos do ZIP para uma pasta. Abra essa pasta no VS Code e execute index.html com Live Server ou diretamente no navegador.
+WhatsApp já configurado: (84) 98130-9506, com mensagem automática.
+Em index.html, altere somente INFORME SEU ENDEREÇO e INFORME SEUS HORÁRIOS.
+Confirme a autorização para publicar as fotos.
+Não há JavaScript nem dependências externas.
